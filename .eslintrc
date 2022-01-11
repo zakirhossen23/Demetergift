@@ -1,0 +1,7 @@
+  {
+    "extends": "next",
+    "globals": {
+      "window": true,
+      "document": true
+    }
+  }

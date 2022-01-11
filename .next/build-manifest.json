@@ -1,0 +1,106 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-a54b4f32bdc1ef890ddd.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/VcbWndaRHXW-wcR4KWZkM/_buildManifest.js",
+    "static/VcbWndaRHXW-wcR4KWZkM/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-ebe6ea880478d3230175.js",
+      "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
+      "static/chunks/main-655ad0ce567efa01caa9.js",
+      "static/chunks/pages/index-f2309663b9f5d32c519e.js"
+    ],
+    "/CreateEvents": [
+      "static/chunks/webpack-ebe6ea880478d3230175.js",
+      "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
+      "static/chunks/main-655ad0ce567efa01caa9.js",
+      "static/chunks/699-0287a54601ecb975af7a.js",
+      "static/chunks/542-bbf7004e15e9467ed833.js",
+      "static/chunks/972-4269f4abcec7919dc504.js",
+      "static/chunks/pages/CreateEvents-5410c5c052b607b1b7ba.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-ebe6ea880478d3230175.js",
+      "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
+      "static/chunks/main-655ad0ce567efa01caa9.js",
+      "static/css/a7386c6788a50e956501.css",
+      "static/chunks/pages/_app-d19ac6578f2ada265b30.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-ebe6ea880478d3230175.js",
+      "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
+      "static/chunks/main-655ad0ce567efa01caa9.js",
+      "static/chunks/pages/_error-9faf4177fb4e528b4124.js"
+    ],
+    "/donation": [
+      "static/chunks/webpack-ebe6ea880478d3230175.js",
+      "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
+      "static/chunks/main-655ad0ce567efa01caa9.js",
+      "static/chunks/699-0287a54601ecb975af7a.js",
+      "static/chunks/972-4269f4abcec7919dc504.js",
+      "static/chunks/pages/donation-9f046f4b0d3b0f6b1f27.js"
+    ],
+    "/donation/auction/[id]": [
+      "static/chunks/webpack-ebe6ea880478d3230175.js",
+      "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
+      "static/chunks/main-655ad0ce567efa01caa9.js",
+      "static/chunks/699-0287a54601ecb975af7a.js",
+      "static/chunks/972-4269f4abcec7919dc504.js",
+      "static/chunks/pages/donation/auction/[id]-49aa013b3cb0b0009897.js"
+    ],
+    "/donation/bid/[id]": [
+      "static/chunks/webpack-ebe6ea880478d3230175.js",
+      "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
+      "static/chunks/main-655ad0ce567efa01caa9.js",
+      "static/chunks/699-0287a54601ecb975af7a.js",
+      "static/chunks/972-4269f4abcec7919dc504.js",
+      "static/chunks/pages/donation/bid/[id]-9dafe6f6b4d00422bf90.js"
+    ],
+    "/login": [
+      "static/chunks/webpack-ebe6ea880478d3230175.js",
+      "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
+      "static/chunks/main-655ad0ce567efa01caa9.js",
+      "static/chunks/pages/login-45d7c609d1bf282cc5be.js"
+    ],
+    "/projects/Cryptopunks": [
+      "static/chunks/webpack-ebe6ea880478d3230175.js",
+      "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
+      "static/chunks/main-655ad0ce567efa01caa9.js",
+      "static/chunks/699-0287a54601ecb975af7a.js",
+      "static/chunks/972-4269f4abcec7919dc504.js",
+      "static/chunks/pages/projects/Cryptopunks-29270b2d9dfd49acd6f9.js"
+    ],
+    "/projects/Cryptopunks/view/[id]": [
+      "static/chunks/webpack-ebe6ea880478d3230175.js",
+      "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
+      "static/chunks/main-655ad0ce567efa01caa9.js",
+      "static/chunks/699-0287a54601ecb975af7a.js",
+      "static/chunks/972-4269f4abcec7919dc504.js",
+      "static/chunks/986-4f279c173ff4ab2086f9.js",
+      "static/chunks/pages/projects/Cryptopunks/view/[id]-241c03b618d3ce9f18f2.js"
+    ],
+    "/projects/erc-721": [
+      "static/chunks/webpack-ebe6ea880478d3230175.js",
+      "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
+      "static/chunks/main-655ad0ce567efa01caa9.js",
+      "static/chunks/699-0287a54601ecb975af7a.js",
+      "static/chunks/972-4269f4abcec7919dc504.js",
+      "static/chunks/pages/projects/erc-721-2d0364b3d4d1d12bd708.js"
+    ],
+    "/projects/erc-721/view/[id]": [
+      "static/chunks/webpack-ebe6ea880478d3230175.js",
+      "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
+      "static/chunks/main-655ad0ce567efa01caa9.js",
+      "static/chunks/699-0287a54601ecb975af7a.js",
+      "static/chunks/972-4269f4abcec7919dc504.js",
+      "static/chunks/986-4f279c173ff4ab2086f9.js",
+      "static/chunks/pages/projects/erc-721/view/[id]-a4bb9dd81a1ed8dfc362.js"
+    ]
+  },
+  "ampFirstPages": []
+}
