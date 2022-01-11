@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/VcbWndaRHXW-wcR4KWZkM/_buildManifest.js",
-    "static/VcbWndaRHXW-wcR4KWZkM/_ssgManifest.js"
+    "static/m7r98AXkr50ajp58dqyQR/_buildManifest.js",
+    "static/m7r98AXkr50ajp58dqyQR/_ssgManifest.js"
   ],
   "pages": {
     "/": [
@@ -29,7 +29,7 @@
       "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
       "static/chunks/main-655ad0ce567efa01caa9.js",
       "static/css/a7386c6788a50e956501.css",
-      "static/chunks/pages/_app-d19ac6578f2ada265b30.js"
+      "static/chunks/pages/_app-8adba62e4e0dcbbf0e06.js"
     ],
     "/_error": [
       "static/chunks/webpack-ebe6ea880478d3230175.js",
@@ -65,7 +65,7 @@
       "static/chunks/webpack-ebe6ea880478d3230175.js",
       "static/chunks/framework-6c6eb080c4d41d8fd79b.js",
       "static/chunks/main-655ad0ce567efa01caa9.js",
-      "static/chunks/pages/login-45d7c609d1bf282cc5be.js"
+      "static/chunks/pages/login-344baea4cea0a537f990.js"
     ],
     "/projects/Cryptopunks": [
       "static/chunks/webpack-ebe6ea880478d3230175.js",
